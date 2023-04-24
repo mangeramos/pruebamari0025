@@ -1,3 +1,3 @@
 alert{
-    
+    window.alert('hola')
 }
