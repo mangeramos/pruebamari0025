@@ -1,3 +1,1 @@
-alert{
-    window.alert('hola')
-}
+window.alert('hola')
